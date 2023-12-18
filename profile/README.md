@@ -2,6 +2,8 @@
 
 ## Latest news
 
+* 18.12.2023: EAP 2024 annocuned. https://www.in2code.de/en/recent/every-year-again-early-access-program-2024
+* 18.12.2023: Public releases for all major Extensions for TYPO3 12 will be done within the two weeks
 * 01.06.2023: Development status for TYPO3 12: Femanager and Powermail are available via EAP Github / (private) Packagist - new customers will receive their access data via EAP invoice
 * 13.03.2023: Development status for TYPO3 12: Femanager and Powermail will be releases as EAP Release close after the ELTS Release - both are in development
 * 24.10.2022: Powermail Version 11 - pre release: Early Release for Powermail 11 (TYPO3 11) is now availble via branch: https://github.com/in2code-pro/powermail/tree/feature/v11 - Major change: Replace signal slots with events.
