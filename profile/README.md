@@ -1,5 +1,24 @@
 # Early Access Programm for in2code's TYPO3 Extensions
 
+EAP 2024: Now available for our TYPO3 extensions
+
+The Early Access Program (EAP) 2024 is here! As usual, all participants will receive exclusive early access to the latest versions of our open source extensions such as Powermail, Femanger, Powermail Conditions, Powermail Recaptcha and more for the new calendar year 2024.
+
+As of January 1, 2024, the following support options apply:
+* Sponsor contribution: € 317 (net)
+* Freelancers: € 159 (net) (plus € 15 for code via Packagist, 12 months)
+* (not state funded) Non-profit organizations: Free participation 
+
+Extension support at a glance:
+* Pre-release access to extensions for TYPO3 version 13
+* Early access to new extension versions (new maintenance releases and features)
+* Guaranteed processing of GitHub issues in the Pro repositories (answering, evaluation and, if necessary, scheduling for implementation)
+* Preferred processing of pull requests (no guaranteed merge, prior discussion of features via issues required as well as compliance with coding guidelines and successful tests)
+
+Further information and the registration form can be found on our website: https://www.in2code.de/en/agency/typo3-extensions/early-access-program/
+
+Thank you very much for your support!
+
 ## Latest news
 
 * 18.12.2023: EAP 2024 annocuned. https://www.in2code.de/en/recent/every-year-again-early-access-program-2024
