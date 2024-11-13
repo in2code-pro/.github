@@ -21,6 +21,8 @@ Thank you very much for your support!
 
 ## Latest news
 
+* 13.11.2024: EAP versions of Powermail and Femanager will be available the main branches of the extensions
+* 11.11.2024: Major Maintenance releases for Powermail and Femanager are published. Our focus will shift now to V13 development
 * 08.11.2024: Powermail and Femanager will be released as first EAP Version end of this month
 * 18.12.2023: EAP 2024 annocuned. https://www.in2code.de/en/recent/every-year-again-early-access-program-2024
 * 18.12.2023: Public releases for all major Extensions for TYPO3 12 will be done within the two weeks
