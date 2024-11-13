@@ -34,4 +34,4 @@ Thank you very much for your support!
 
 ## General Infos how to use our programm
 
-Each repository offers a "pro" branch. This branch is used for the latest development of features. Generally this branch can be used for productive environments. 
+Development for EAP versions will be done in the main branches of each extension. 
