@@ -21,6 +21,7 @@ Thank you very much for your support!
 
 ## Latest news
 
+* 21.11.2024: Powermail 13 (alpha) will be available tomorrow as alpha version
 * 15.11.2024: Femanager 13 (alpha) is available in the main branch
 * 13.11.2024: EAP versions of Powermail and Femanager will be available the main branches of the extensions
 * 11.11.2024: Major Maintenance releases for Powermail and Femanager are published. Our focus will shift now to V13 development
