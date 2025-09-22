@@ -1,6 +1,6 @@
 # Early Access Programm for in2code's TYPO3 Extensions
 
-EAP 2024 (TYPO3 14): Now available for our TYPO3 extensions
+EAP for TYPO3 14: Now available for our TYPO3 extensions
 
 The Early Access Program (EAP) for TYPO3 14! As usual, all participants will receive exclusive early access to the latest versions of our open source extensions such as Powermail, Femanger, Powermail Conditions, Powermail Recaptcha and more.
 
