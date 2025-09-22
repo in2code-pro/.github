@@ -1,26 +1,30 @@
 # Early Access Programm for in2code's TYPO3 Extensions
 
-EAP 2024: Now available for our TYPO3 extensions
+EAP 2024 (TYPO3 13): Now available for our TYPO3 extensions
 
-The Early Access Program (EAP) 2024 is here! As usual, all participants will receive exclusive early access to the latest versions of our open source extensions such as Powermail, Femanger, Powermail Conditions, Powermail Recaptcha and more for the new calendar year 2024.
+The Early Access Program (EAP) for TYPO3 14! As usual, all participants will receive exclusive early access to the latest versions of our open source extensions such as Powermail, Femanger, Powermail Conditions, Powermail Recaptcha and more for the new calendar year 2024.
 
-As of January 1, 2024, the following support options apply:
-* Sponsor contribution: € 317 (net)
-* Freelancers: € 159 (net) (plus € 15 for code via Packagist, 12 months)
+As of January 1, 2026, the following support options apply:
+* Sponsor contribution: € 389 (net) - (exisitng customers € 349)
+* Freelancers: € 159 (net) (optional € 15 for access via Private Packagist - untill 28.2.2027)
 * (not state funded) Non-profit organizations: Free participation 
 
 Extension support at a glance:
-* Pre-release access to extensions for TYPO3 version 13
+* Pre-release access to extensions for TYPO3 version 14
 * Early access to new extension versions (new maintenance releases and features)
 * Guaranteed processing of GitHub issues in the Pro repositories (answering, evaluation and, if necessary, scheduling for implementation)
 * Preferred processing of pull requests (no guaranteed merge, prior discussion of features via issues required as well as compliance with coding guidelines and successful tests)
 
 Further information and the registration form can be found on our website: https://www.in2code.de/en/agency/typo3-extensions/early-access-program/
 
+Compatible versions for TYPO3 14 will be avaible end of Q4 2025. Public release of in2code extensions for TYPO3 14 will be beginning of 2027. 
+
 Thank you very much for your support!
 
 ## Latest news
-
+* 30.09.2025: End of EAP for TYPO3 13 - access tokens for private packagist will get invalid. 
+* 01.09.2025: Start of EAP for TYPO3 14
+* 31.07.2025: Public Release our extensions via Github / Packagist / TER
 * 02.12.2024: Powermail_cond (alpha) is available
 * 22.11.2024: Powermail 13 (alpha)  is available
 * 15.11.2024: Femanager 13 (alpha) is available in the main branch
