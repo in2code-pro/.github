@@ -22,6 +22,7 @@ Compatible versions for TYPO3 14 will be avaible end of Q4 2025. Public release 
 Thank you very much for your support!
 
 ## Latest news
+* 04.02.2026: in2faq, in2frontendauthentication, in2glossar, in2help, in2responsible, in2studyfinder, instagram, ipandlanguageredirect, publications are available for V14. Tags are not set yet! Please use the main branch for TYPO3 14
 * 15.12.2025: The first extensions for TYPO3 14 are available via EAP - https://www.in2code.de/agentur/typo3-extensions/early-access-programm/
 * 30.09.2025: End of EAP for TYPO3 13 - access tokens for private packagist will get invalid. 
 * 01.08.2025: Start of EAP for TYPO3 14
